@@ -1,0 +1,502 @@
+[
+  {
+    "locationName": "Point1",
+    "latitudeValue": -7.18440713482308,
+    "longitudeValue": 112.75814941244877
+  },
+  {
+    "locationName": "Point2",
+    "latitudeValue": -7.391574004708846,
+    "longitudeValue": 112.75504243400778
+  },
+  {
+    "locationName": "Point3",
+    "latitudeValue": -7.1546275462374265,
+    "longitudeValue": 112.71067031174223
+  },
+  {
+    "locationName": "Point4",
+    "latitudeValue": -7.155979317458501,
+    "longitudeValue": 112.75636195653124
+  },
+  {
+    "locationName": "Point5",
+    "latitudeValue": -7.358282486749671,
+    "longitudeValue": 112.75544736515492
+  },
+  {
+    "locationName": "Point6",
+    "latitudeValue": -7.285576099660664,
+    "longitudeValue": 112.68784433422249
+  },
+  {
+    "locationName": "Point7",
+    "latitudeValue": -7.153314411531783,
+    "longitudeValue": 112.76118868525286
+  },
+  {
+    "locationName": "Point8",
+    "latitudeValue": -7.333989284170746,
+    "longitudeValue": 112.69060600260318
+  },
+  {
+    "locationName": "Point9",
+    "latitudeValue": -7.226907643423354,
+    "longitudeValue": 112.68835856976008
+  },
+  {
+    "locationName": "Point10",
+    "latitudeValue": -7.1669909266549645,
+    "longitudeValue": 112.78773312146227
+  },
+  {
+    "locationName": "Point11",
+    "latitudeValue": -7.178628055218464,
+    "longitudeValue": 112.73351252874933
+  },
+  {
+    "locationName": "Point12",
+    "latitudeValue": -7.275872072613284,
+    "longitudeValue": 112.78854670388338
+  },
+  {
+    "locationName": "Point13",
+    "latitudeValue": -7.336114432615708,
+    "longitudeValue": 112.74206243063603
+  },
+  {
+    "locationName": "Point14",
+    "latitudeValue": -7.239676217594628,
+    "longitudeValue": 112.70484318422943
+  },
+  {
+    "locationName": "Point15",
+    "latitudeValue": -7.318852577562818,
+    "longitudeValue": 112.65388476850104
+  },
+  {
+    "locationName": "Point16",
+    "latitudeValue": -7.196467406581549,
+    "longitudeValue": 112.80460824363027
+  },
+  {
+    "locationName": "Point17",
+    "latitudeValue": -7.214879073772951,
+    "longitudeValue": 112.66889733660265
+  },
+  {
+    "locationName": "Point18",
+    "latitudeValue": -7.28133722764379,
+    "longitudeValue": 112.78752365242649
+  },
+  {
+    "locationName": "Point19",
+    "latitudeValue": -7.374959859402003,
+    "longitudeValue": 112.75721936678316
+  },
+  {
+    "locationName": "Point20",
+    "latitudeValue": -7.222186409376286,
+    "longitudeValue": 112.66743348826525
+  },
+  {
+    "locationName": "Point21",
+    "latitudeValue": -7.217736680188527,
+    "longitudeValue": 112.75626391650084
+  },
+  {
+    "locationName": "Point22",
+    "latitudeValue": -7.17855011853054,
+    "longitudeValue": 112.77962276586679
+  },
+  {
+    "locationName": "Point23",
+    "latitudeValue": -7.326835643275208,
+    "longitudeValue": 112.71786293738477
+  },
+  {
+    "locationName": "Point24",
+    "latitudeValue": -7.201843794208266,
+    "longitudeValue": 112.74319585065426
+  },
+  {
+    "locationName": "Point25",
+    "latitudeValue": -7.152955685738924,
+    "longitudeValue": 112.71544341609803
+  },
+  {
+    "locationName": "Point26",
+    "latitudeValue": -7.384235151720978,
+    "longitudeValue": 112.77581525694823
+  },
+  {
+    "locationName": "Point27",
+    "latitudeValue": -7.374389290994787,
+    "longitudeValue": 112.75601591451652
+  },
+  {
+    "locationName": "Point28",
+    "latitudeValue": -7.176582856197588,
+    "longitudeValue": 112.76897007148752
+  },
+  {
+    "locationName": "Point29",
+    "latitudeValue": -7.207723355559621,
+    "longitudeValue": 112.81168939058539
+  },
+  {
+    "locationName": "Point30",
+    "latitudeValue": -7.184136565663493,
+    "longitudeValue": 112.66729109182594
+  },
+  {
+    "locationName": "Point31",
+    "latitudeValue": -7.365898220288748,
+    "longitudeValue": 112.64285616637981
+  },
+  {
+    "locationName": "Point32",
+    "latitudeValue": -7.38046019080796,
+    "longitudeValue": 112.73200297871114
+  },
+  {
+    "locationName": "Point33",
+    "latitudeValue": -7.355949724289991,
+    "longitudeValue": 112.78627658253282
+  },
+  {
+    "locationName": "Point34",
+    "latitudeValue": -7.2821263753772865,
+    "longitudeValue": 112.71462776146251
+  },
+  {
+    "locationName": "Point35",
+    "latitudeValue": -7.382131272453966,
+    "longitudeValue": 112.80768234318792
+  },
+  {
+    "locationName": "Point36",
+    "latitudeValue": -7.372659769493467,
+    "longitudeValue": 112.65972380449827
+  },
+  {
+    "locationName": "Point37",
+    "latitudeValue": -7.334625081134294,
+    "longitudeValue": 112.77299052956164
+  },
+  {
+    "locationName": "Point38",
+    "latitudeValue": -7.387870962854669,
+    "longitudeValue": 112.79819334714978
+  },
+  {
+    "locationName": "Point39",
+    "latitudeValue": -7.363472432230929,
+    "longitudeValue": 112.69224120392056
+  },
+  {
+    "locationName": "Point40",
+    "latitudeValue": -7.2233829480668,
+    "longitudeValue": 112.72387026273502
+  },
+  {
+    "locationName": "Point41",
+    "latitudeValue": -7.150011198638129,
+    "longitudeValue": 112.66791678941853
+  },
+  {
+    "locationName": "Point42",
+    "latitudeValue": -7.252794578420668,
+    "longitudeValue": 112.81226290573983
+  },
+  {
+    "locationName": "Point43",
+    "latitudeValue": -7.223864166843684,
+    "longitudeValue": 112.65524613378068
+  },
+  {
+    "locationName": "Point44",
+    "latitudeValue": -7.258013773268554,
+    "longitudeValue": 112.79288499901844
+  },
+  {
+    "locationName": "Point45",
+    "latitudeValue": -7.289185451734153,
+    "longitudeValue": 112.75279772591142
+  },
+  {
+    "locationName": "Point46",
+    "latitudeValue": -7.167071060886458,
+    "longitudeValue": 112.66657338325173
+  },
+  {
+    "locationName": "Point47",
+    "latitudeValue": -7.3430018084739785,
+    "longitudeValue": 112.71052934015734
+  },
+  {
+    "locationName": "Point48",
+    "latitudeValue": -7.2393066233694885,
+    "longitudeValue": 112.65244591799546
+  },
+  {
+    "locationName": "Point49",
+    "latitudeValue": -7.293602405465342,
+    "longitudeValue": 112.72083628786223
+  },
+  {
+    "locationName": "Point50",
+    "latitudeValue": -7.302085230420571,
+    "longitudeValue": 112.80810347980496
+  },
+  {
+    "locationName": "Point51",
+    "latitudeValue": -7.273289852101457,
+    "longitudeValue": 112.68000903852065
+  },
+  {
+    "locationName": "Point52",
+    "latitudeValue": -7.178849740125231,
+    "longitudeValue": 112.68395966534315
+  },
+  {
+    "locationName": "Point53",
+    "latitudeValue": -7.150892605178529,
+    "longitudeValue": 112.7515561708163
+  },
+  {
+    "locationName": "Point54",
+    "latitudeValue": -7.202104930031676,
+    "longitudeValue": 112.71699090485501
+  },
+  {
+    "locationName": "Point55",
+    "latitudeValue": -7.297085910811901,
+    "longitudeValue": 112.65483523511479
+  },
+  {
+    "locationName": "Point56",
+    "latitudeValue": -7.2715594410901945,
+    "longitudeValue": 112.78439389759468
+  },
+  {
+    "locationName": "Point57",
+    "latitudeValue": -7.1706653284770665,
+    "longitudeValue": 112.78835808665599
+  },
+  {
+    "locationName": "Point58",
+    "latitudeValue": -7.393363760541554,
+    "longitudeValue": 112.71347316651251
+  },
+  {
+    "locationName": "Point59",
+    "latitudeValue": -7.2100314833926475,
+    "longitudeValue": 112.7857156695791
+  },
+  {
+    "locationName": "Point60",
+    "latitudeValue": -7.399910710650054,
+    "longitudeValue": 112.6749447630659
+  },
+  {
+    "locationName": "Point61",
+    "latitudeValue": -7.238529182017247,
+    "longitudeValue": 112.66779694868687
+  },
+  {
+    "locationName": "Point62",
+    "latitudeValue": -7.21003292646031,
+    "longitudeValue": 112.8148365355548
+  },
+  {
+    "locationName": "Point63",
+    "latitudeValue": -7.3051688505324925,
+    "longitudeValue": 112.76197940315163
+  },
+  {
+    "locationName": "Point64",
+    "latitudeValue": -7.343800003509678,
+    "longitudeValue": 112.7799857400626
+  },
+  {
+    "locationName": "Point65",
+    "latitudeValue": -7.293390141458518,
+    "longitudeValue": 112.71305825999394
+  },
+  {
+    "locationName": "Point66",
+    "latitudeValue": -7.19291463285211,
+    "longitudeValue": 112.71413709088606
+  },
+  {
+    "locationName": "Point67",
+    "latitudeValue": -7.34594605148818,
+    "longitudeValue": 112.76751202172542
+  },
+  {
+    "locationName": "Point68",
+    "latitudeValue": -7.339672566976515,
+    "longitudeValue": 112.67364656658337
+  },
+  {
+    "locationName": "Point69",
+    "latitudeValue": -7.154523846174268,
+    "longitudeValue": 112.73005972378998
+  },
+  {
+    "locationName": "Point70",
+    "latitudeValue": -7.285975984910522,
+    "longitudeValue": 112.76806799734527
+  },
+  {
+    "locationName": "Point71",
+    "latitudeValue": -7.186830958831143,
+    "longitudeValue": 112.75728733092325
+  },
+  {
+    "locationName": "Point72",
+    "latitudeValue": -7.398246416764032,
+    "longitudeValue": 112.71810171612363
+  },
+  {
+    "locationName": "Point73",
+    "latitudeValue": -7.254821444204447,
+    "longitudeValue": 112.66110816735512
+  },
+  {
+    "locationName": "Point74",
+    "latitudeValue": -7.195901586030606,
+    "longitudeValue": 112.64277335693515
+  },
+  {
+    "locationName": "Point75",
+    "latitudeValue": -7.303252283097033,
+    "longitudeValue": 112.65511479409976
+  },
+  {
+    "locationName": "Point76",
+    "latitudeValue": -7.185895089000121,
+    "longitudeValue": 112.7738260172378
+  },
+  {
+    "locationName": "Point77",
+    "latitudeValue": -7.363136903844537,
+    "longitudeValue": 112.64654889382983
+  },
+  {
+    "locationName": "Point78",
+    "latitudeValue": -7.2793270486063575,
+    "longitudeValue": 112.69792842184872
+  },
+  {
+    "locationName": "Point79",
+    "latitudeValue": -7.393635768133167,
+    "longitudeValue": 112.66562268008782
+  },
+  {
+    "locationName": "Point80",
+    "latitudeValue": -7.193933244193088,
+    "longitudeValue": 112.73319067973448
+  },
+  {
+    "locationName": "Point81",
+    "latitudeValue": -7.3937639439121785,
+    "longitudeValue": 112.80202727684241
+  },
+  {
+    "locationName": "Point82",
+    "latitudeValue": -7.374403113808628,
+    "longitudeValue": 112.70273656086516
+  },
+  {
+    "locationName": "Point83",
+    "latitudeValue": -7.344377914538844,
+    "longitudeValue": 112.69736887145017
+  },
+  {
+    "locationName": "Point84",
+    "latitudeValue": -7.2151524415974455,
+    "longitudeValue": 112.76092227101637
+  },
+  {
+    "locationName": "Point85",
+    "latitudeValue": -7.263683682267799,
+    "longitudeValue": 112.77920020835724
+  },
+  {
+    "locationName": "Point86",
+    "latitudeValue": -7.351906040390862,
+    "longitudeValue": 112.65362752948782
+  },
+  {
+    "locationName": "Point87",
+    "latitudeValue": -7.219813889118196,
+    "longitudeValue": 112.65811507525979
+  },
+  {
+    "locationName": "Point88",
+    "latitudeValue": -7.287276744217098,
+    "longitudeValue": 112.78304674790101
+  },
+  {
+    "locationName": "Point89",
+    "latitudeValue": -7.198234150915999,
+    "longitudeValue": 112.73149074025085
+  },
+  {
+    "locationName": "Point90",
+    "latitudeValue": -7.261537732032794,
+    "longitudeValue": 112.81657685664167
+  },
+  {
+    "locationName": "Point91",
+    "latitudeValue": -7.351222918100933,
+    "longitudeValue": 112.79986311545626
+  },
+  {
+    "locationName": "Point92",
+    "latitudeValue": -7.267818762786526,
+    "longitudeValue": 112.7629880121565
+  },
+  {
+    "locationName": "Point93",
+    "latitudeValue": -7.325707030384976,
+    "longitudeValue": 112.76963325068253
+  },
+  {
+    "locationName": "Point94",
+    "latitudeValue": -7.221824274695823,
+    "longitudeValue": 112.79102544456836
+  },
+  {
+    "locationName": "Point95",
+    "latitudeValue": -7.271428344041582,
+    "longitudeValue": 112.7121712966446
+  },
+  {
+    "locationName": "Point96",
+    "latitudeValue": -7.151059469312745,
+    "longitudeValue": 112.66876878788499
+  },
+  {
+    "locationName": "Point97",
+    "latitudeValue": -7.179328281229797,
+    "longitudeValue": 112.76178497637143
+  },
+  {
+    "locationName": "Point98",
+    "latitudeValue": -7.277007657522496,
+    "longitudeValue": 112.69088928548447
+  },
+  {
+    "locationName": "Point99",
+    "latitudeValue": -7.1652940519877415,
+    "longitudeValue": 112.73741137691434
+  },
+  {
+    "locationName": "Point100",
+    "latitudeValue": -7.28684305443715,
+    "longitudeValue": 112.68123340103314
+  }
+]
